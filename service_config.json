@@ -1,7 +1,7 @@
 {
-  "order-service": "192.168.1.100",
-  "inventory-service": "192.168.1.101", 
-  "notification-service": "192.168.1.102",
-  "frontend": "192.168.1.103",
-  "redis": "192.168.1.104"
+  "order-service": "localhost",
+  "inventory-service": "localhost", 
+  "notification-service": "localhost",
+  "frontend": "localhost",
+  "redis": "localhost"
 } 
