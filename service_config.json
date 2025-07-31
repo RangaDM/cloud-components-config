@@ -1,5 +1,5 @@
 {
-  "order-service": "localhost",
+  "order-service": "192.40.30.10",
   "inventory-service": "localhost", 
   "notification-service": "localhost",
   "frontend": "localhost",
