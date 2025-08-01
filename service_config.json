@@ -3,5 +3,5 @@
   "inventory-service": "localhost", 
   "notification-service": "localhost",
   "frontend": "localhost",
-  "redis": "34.143.255.188"
+  "redis": "localhost"
 } 
