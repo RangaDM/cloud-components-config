@@ -1,7 +1,7 @@
 {
   "order-service": "localhost",
   "inventory-service": "localhost", 
-  "notification-service": "134.67.90.56",
+  "notification-service": "https://8003-cs-319696038124-default.cs-asia-southeast1-yelo.cloudshell.dev/?authuser=0",
   "frontend": "localhost",
   "redis": "localhost"
 } 
