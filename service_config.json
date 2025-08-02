@@ -1,7 +1,7 @@
 {
-  "order-service": "http://order-service:8001",
-  "inventory-service": "http://inventory-service:8002",
-  "notification-service": "http://notification-service:8003",
-  "frontend": "http://frontend:8080",
-  "redis": "redis://redis-service:6379"
+  "order-service": "order-service",
+  "inventory-service": "inventory-service", 
+  "notification-service": "notification-service",
+  "frontend": "frontend",
+  "redis": "redis-service"
 }
