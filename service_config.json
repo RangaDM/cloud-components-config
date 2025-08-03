@@ -1,7 +1,7 @@
 {
-  "order-service": "order-service",
-  "inventory-service": "inventory-service", 
-  "notification-service": "notification-service",
-  "frontend": "frontend",
-  "redis": "redis-service"
+  "order-service": "localhost",
+  "inventory-service": "localhost", 
+  "notification-service": "localhost",
+  "frontend": "localhost",
+  "redis": "localhost"
 }
